@@ -4,7 +4,8 @@ It allows the COMBI PC to automatically start playing a set of images (some qual
 
 **Execution method:**
 <br> Make sure you have Python installed. 
-<br> Then, install the required packages: `pip install pillow pynput screeninfo`
+<br> Then, install the required packages: 
+<br>`pip install pillow pynput screeninfo`
 <br> Finally, run `screensaver.py` using Python
 
 **System Tray:**
