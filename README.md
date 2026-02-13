@@ -2,10 +2,10 @@
 Packing_CombiScreenSaver is a Python-based screensaver program on Windows PC.
 It allows the COMBI PC to automatically start playing a set of images (some quality checking tips that Packing Quality team would like to share with production operators) after 2 minutes of inactivity, and stops the playback once any activity is detected on the computer.
 **Execution method:**
-Run `screensaver.py` using Python
+<br>Run `screensaver.py` using Python
 
 **System Tray:**
-This program will create an icon in the hidden tray at the bottom-right corner, allowing you to control the program through the tray icon.
+<br>This program will create an icon in the hidden tray at the bottom-right corner, allowing you to control the program through the tray icon.
 <br><img src="icon.png" alt="ICON" width="50"><br>
 
 **LOGO:**
