@@ -6,7 +6,7 @@ Run `screensaver.py` using Python
 
 **System Tray:**
 This program will create an icon in the hidden tray at the bottom-right corner, allowing you to control the program through the tray icon.
-<img src="icon.png" alt="ICON" width="50">
+<br><img src="icon.png" alt="ICON" width="50"><br>
 
 **LOGO:**
-<img src="logo.png" alt="LOGO" width="800">
+<br><img src="logo.png" alt="LOGO" width="800"><br>
