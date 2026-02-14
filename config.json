@@ -1,8 +1,7 @@
 {
     "timeout": 120,
-    "image_path": "\\\\cnawww-s01\\pub$\\App_Packing\\App\\CombiScreenSaver\\images",
+    "image_path": "./images",
     "interval": 3,
     "random_order": true,
-    "tray_icon": "./icon.png",
-    "cache_path": "C:\\Temp\\images"
+    "tray_icon": "./icon.png"
 }
